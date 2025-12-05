@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetLab4_FileEncryptor", "DotNetLab4\DotNetLab4_FileEncryptor.csproj", "{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetLab4_ProcessManager", "DotNetLab4_ProcessManager\DotNetLab4_ProcessManager.csproj", "{6A6D0352-4064-4E52-B8C5-6B8E7536C015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6D0352-4064-4E52-B8C5-6B8E7536C015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6D0352-4064-4E52-B8C5-6B8E7536C015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6D0352-4064-4E52-B8C5-6B8E7536C015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6D0352-4064-4E52-B8C5-6B8E7536C015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE57871-441F-4B6F-B71B-F72A6B3C05D3}
+	EndGlobalSection
+EndGlobal

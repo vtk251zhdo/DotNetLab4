@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4_FileEncryptor.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4.Form1.resources
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4_FileEncryptor.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4_FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4.Properties.Resources.resources
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\bin\Debug\DotNetLab4_FileEncryptor.exe.config
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\bin\Debug\DotNetLab4_FileEncryptor.exe
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\bin\Debug\DotNetLab4_FileEncryptor.pdb
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4_FileEncryptor.exe
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4_FileEncryptor.pdb
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4\obj\Debug\DotNetLab4_FileEncryptor.exe.config

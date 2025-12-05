@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\bin\Debug\DotNetLab4_ProcessManager.exe.config
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\bin\Debug\DotNetLab4_ProcessManager.exe
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\bin\Debug\DotNetLab4_ProcessManager.pdb
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.Form1.resources
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.Properties.Resources.resources
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.exe
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.pdb
+C:\Users\Админ\source\repos\DotNetLab4\DotNetLab4_ProcessManager\obj\Debug\DotNetLab4_ProcessManager.exe.config
