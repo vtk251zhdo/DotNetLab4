@@ -25,7 +25,6 @@ namespace DotNetLab4
         {
             InitializeComponent();
 
-            // Підписуємося на події
             btnBrowse.Click += btnBrowse_Click;
             btnEncrypt.Click += btnEncrypt_Click;
             btnDecrypt.Click += btnDecrypt_Click;
@@ -156,11 +155,6 @@ namespace DotNetLab4
             {
                 lblTime.Text = "Час: " + _stopwatch.Elapsed.ToString(@"hh\:mm\:ss");
             }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
