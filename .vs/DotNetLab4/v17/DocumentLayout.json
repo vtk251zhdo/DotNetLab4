@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}|DotNetLab4\\DotNetLab4_FileEncryptor.csproj|solutionrelative:dotnetlab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}|DotNetLab4\\DotNetLab4_FileEncryptor.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\dotnetlab4\\dotnetlab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95E67153-AA5C-4277-AF0C-C3F62DDDDACA}|DotNetLab4\\DotNetLab4_FileEncryptor.csproj|solutionrelative:dotnetlab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A6D0352-4064-4E52-B8C5-6B8E7536C015}|DotNetLab4_ProcessManager\\DotNetLab4_ProcessManager.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\dotnetlab4\\dotnetlab4_processmanager\\core\\processservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6D0352-4064-4E52-B8C5-6B8E7536C015}|DotNetLab4_ProcessManager\\DotNetLab4_ProcessManager.csproj|solutionrelative:dotnetlab4_processmanager\\core\\processservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +36,23 @@
               "RelativeDocumentMoniker": "DotNetLab4\\Form1.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\DotNetLab4\\DotNetLab4\\Form1.cs",
               "RelativeToolTip": "DotNetLab4\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAArwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T06:27:08.023Z",
+              "WhenOpened": "2025-12-06T06:36:57.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\DotNetLab4\\DotNetLab4\\Form1.cs",
-              "RelativeDocumentMoniker": "DotNetLab4\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\DotNetLab4\\DotNetLab4\\Form1.cs [Design]",
-              "RelativeToolTip": "DotNetLab4\\Form1.cs [Design]",
+              "Title": "ProcessService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\DotNetLab4\\DotNetLab4_ProcessManager\\Core\\ProcessService.cs",
+              "RelativeDocumentMoniker": "DotNetLab4_ProcessManager\\Core\\ProcessService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\DotNetLab4\\DotNetLab4_ProcessManager\\Core\\ProcessService.cs",
+              "RelativeToolTip": "DotNetLab4_ProcessManager\\Core\\ProcessService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T06:27:06.064Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T06:28:55.319Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,14 +1,8 @@
 ﻿using DotNetLab4_FileEncryptor.Core;
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace DotNetLab4
@@ -62,6 +56,12 @@ namespace DotNetLab4
         {
             try
             {
+                if (bgWorker.IsBusy)
+                {
+                    MessageBox.Show("Операція вже виконується! Дочекайтесь завершення.");
+                    return;
+                }
+
                 _inputPath = txtFilePath.Text;
                 _key = txtKey.Text;
 
@@ -136,8 +136,12 @@ namespace DotNetLab4
             if (e.Error != null)
             {
                 MessageBox.Show("Помилка під час шифрування: " + e.Error.Message);
+                lblStatus.Text = "Помилка!";
                 return;
             }
+
+            progressBar.Value = 100;
+            lblStatus.Text = "Готово";
 
             var fi = new FileInfo(_outputPath);
             string msg = $"Операцію завершено успішно.\n" +
@@ -145,8 +149,6 @@ namespace DotNetLab4
                          $"Розмір: {fi.Length} байт\n" +
                          $"Час: {_stopwatch.Elapsed}";
             MessageBox.Show(msg, "Готово");
-
-            lblStatus.Text = "Готово";
         }
 
         private void Timer1_Tick(object sender, EventArgs e)
